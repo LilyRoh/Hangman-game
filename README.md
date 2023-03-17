@@ -1,7 +1,15 @@
-# Hangman game
+# Hangman
 ![image](https://user-images.githubusercontent.com/60398817/225922821-01078822-1304-4889-8a51-624b7bb6037b.png)
 
-## How to play 
+## Table of Contents
+- [Hangman game](#hangman)
+- [How to play](#how-to-play)
+- [Languages](#languages)
+- [How to install](#how-to-install)
+- [Credit](#credit)
+
+
+## How to play
 1) The game randomly selects a word from a pre-defined list of words.
 
 2) You are given 6 chances to guess the word by guessing one letter at a time.
